@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 I am a passionate French **Cybersecurity Engineer** dedicated to ensuring the safety and integrity of digital systems. \
-My work involves FDIR, CTI, fortifying defenses, identifying vulnerabilities, and implementing robust security measures to protect against cyber threats.
+My work involves DFIR, CTI, fortifying defenses, identifying vulnerabilities, and implementing robust security measures to protect against cyber threats.
 
 ## Open Source Contributions
 One of my key projects is [Cyberbro](https://github.com/stanfrbd/cyberbro) 🛡️. \
